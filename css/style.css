@@ -1,0 +1,17 @@
+
+	h1,h2 {
+		color: darkblue; 
+		font-size: 25px;  
+        font-family:'Times New Roman', Times, serif
+
+	} 
+    /* this symbol will affect all the */ 
+.ingredients-less, .direction-less { color:chocolate;
+                  font-size: 15px;  
+                  font-family:'Times New Roman', Times, serif}
+   
+    .img-with-margin {margin-left: 600px;}   
+
+   .recipe-by {margin-left: 50px; margin-bottom: 500px;} 
+   /*.recipe-by { border: chocolate 2px solid;}
+   .Related-Recipes { }
